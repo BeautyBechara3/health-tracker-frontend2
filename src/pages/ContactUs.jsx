@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import emailjs from 'emailjs-com';
 import contact_img from '../../src/assets/images/contact_img.jpg';
 import done from '../../src/assets/images/Done.gif';
-import '../styles/contact.css';
+import '../styles/Contact.css';
 
 
 const Contact = () => {
