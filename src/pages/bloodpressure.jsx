@@ -1,7 +1,7 @@
 import React, { useContext, useState } from "react";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import "../styles/BloodPressure.css";
+import "../styles/bloodpressure.css";
 import { MyContext } from "../App";
 import html2canvas from 'html2canvas';
 import jsPDF from 'jspdf';
