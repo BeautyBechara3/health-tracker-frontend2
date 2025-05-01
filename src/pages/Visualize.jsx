@@ -4,7 +4,7 @@ import '../styles/Visualize.css';
 import PatientInfo from './PatientInfo.jsx';
 import ReportDetails from './ReportDetails.jsx';
 import Analysis from './Analysis.jsx';
-import AdditionalInfo from './additionalinfo.jsx';
+import AdditionalInfo from './AdditionalInfo.jsx';
 
 const Visualize = () =>
 {
