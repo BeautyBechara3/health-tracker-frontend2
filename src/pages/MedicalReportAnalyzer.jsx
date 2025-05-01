@@ -11,7 +11,7 @@ import feature6 from "../../src/assets/images/feature-6.svg";
 import feature7 from "../../src/assets/images/feature-7.svg";
 import HeroImg from "../../src/assets/images/backimg.jpeg";
 import features1 from "../../src/assets/images/features1.svg";
-import Home1 from "../../src/assets/images/home1.png";
+import Home1 from "../../src/assets/images/Home1.png";
 import Home2 from "../../src/assets/images/home2.png";
 import Carousel from "react-multi-carousel";
 import "react-multi-carousel/lib/styles.css";
